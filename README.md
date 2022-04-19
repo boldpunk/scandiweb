@@ -1,3 +1,3 @@
-# scandiweb
 This is Test Task for Junior Developer position
-# Commit 1
+by Saidakbar Toychiboev
+
