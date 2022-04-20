@@ -1,5 +1,5 @@
-This is Test Task for Junior Developer position
-by Saidakbar
+# This is Test Task for Junior Developer position
+by boldpunk
 
 Web app ver. 1.0
 
